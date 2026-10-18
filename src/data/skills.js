@@ -1,0 +1,93 @@
+export const skills = [
+  'Google Ads',
+  'Meta Ads (Facebook & Instagram)',
+  'Technical SEO Audits',
+  'On-Page & Off-Page SEO',
+  'Keyword Research',
+  'Meta Tag Optimization',
+  'Local SEO (Google Business Profile)',
+  'Google Analytics (GA4)',
+  'Google Search Console',
+  'WordPress CMS',
+  'Shopify E-commerce',
+  'Canva Design',
+  'Campaign Budget Allocation',
+  'Audience Targeting',
+  'HTML5 & CSS3',
+  'JavaScript & jQuery',
+  'Bootstrap & ReactJS',
+  'Git & GitHub',
+  'VS Code & SourceTree',
+  'End-to-End Campaign Management',
+  'Conversion Tracking & Metrics',
+  'Cross-Functional Dev Collaboration',
+];
+
+export const skillCategories = [
+  {
+    category: 'Search Engine Optimization (SEO)',
+    items: [
+      'Technical SEO Audits',
+      'On-Page Optimization',
+      'Off-Page SEO & Backlinks',
+      'Keyword Research & Intent',
+      'Meta Tag Architecture',
+      'Crawl Error Resolution',
+      'Local SEO & GMB Optimization',
+    ],
+  },
+  {
+    category: 'Paid Advertising (PPC & Social)',
+    items: [
+      'Google Ads (Search Campaigns)',
+      'Meta Ads (Facebook & Instagram)',
+      'Audience Demographic Targeting',
+      'Budget Allocation & Bidding',
+      'Ad Copy Testing & Angles',
+      'Performance Metrics & ROAS',
+    ],
+  },
+  {
+    category: 'Analytics & Webmaster Tools',
+    items: [
+      'Google Analytics (GA4)',
+      'Google Search Console',
+      'Google Business Profile (GMB)',
+      'Performance Reporting',
+      'Conversion Tracking',
+      'Traffic & Query Insights',
+    ],
+  },
+  {
+    category: 'Platforms & Content Design',
+    items: [
+      'WordPress CMS Management',
+      'Shopify E-commerce',
+      'Canva Graphic Design',
+      'Ad Creative Asset Creation',
+      'Social Media Content Strategy',
+    ],
+  },
+  {
+    category: 'Technical Dev Skills (BCA Fluency)',
+    items: [
+      'HTML5 Semantic Markup',
+      'CSS3 & Modern Layouts',
+      'JavaScript (ES6+)',
+      'jQuery & Bootstrap',
+      'ReactJS Foundations',
+      'Diagnosing On-Page Code Issues',
+    ],
+  },
+  {
+    category: 'Developer Tools & Professional Skills',
+    items: [
+      'VS Code',
+      'GitHub (CodeSandbox-ui)',
+      'SourceTree & Git',
+      'MS Office Suite',
+      'Fast Learner & Adaptable',
+      'Fluent English & Native Hindi',
+    ],
+  },
+];
