@@ -149,22 +149,7 @@ export default function Footer() {
 
               {/* Links & Resume */}
               <div className="flex flex-wrap items-center gap-3 pt-2">
-                <a
-                  href="https://theprovend.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1.5 text-xs text-fg-muted hover:text-fg transition-colors"
-                >
-                  <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                    <circle cx="12" cy="12" r="10"/>
-                    <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/>
-                    <path d="M2 12h20"/>
-                  </svg>
-                  <span>theprovend.com</span>
-                  <ArrowUpRight className="w-3 h-3 opacity-60" />
-                </a>
-
-                <span className="text-fg-subtle">·</span>
+               
 
                 <a
                   href="https://github.com/CodeSandbox-ui"

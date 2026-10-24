@@ -171,21 +171,7 @@ export default function ClosingCTA() {
 
         {/* Links & Resume */}
         <div className="flex flex-wrap items-center justify-start md:justify-end gap-2 w-full md:w-auto">
-          {/* Client Site */}
-          <a
-            href="https://theprovend.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-border bg-bg hover:border-fg-muted text-xs font-medium text-fg-muted hover:text-fg transition-colors"
-          >
-            <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-              <circle cx="12" cy="12" r="10"/>
-              <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/>
-              <path d="M2 12h20"/>
-            </svg>
-            <span>theprovend.com</span>
-            <ArrowUpRight className="w-3 h-3 opacity-60" />
-          </a>
+
 
           {/* GitHub CodeSandbox-ui */}
           <a

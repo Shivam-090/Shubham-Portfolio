@@ -36,7 +36,6 @@ export default function Hero({ loaded }) {
     { label: 'Technical & On-Page SEO', href: '#skills' },
     { label: 'Google & Meta Ads', href: '#skills' },
     { label: 'Local SEO (GMB)', href: '#skills' },
-    { label: 'theprovend.com ↗', href: 'https://theprovend.com', isExternal: true },
     { label: 'GitHub: CodeSandbox-ui ↗', href: 'https://github.com/CodeSandbox-ui', isExternal: true },
     { label: 'Resume (PDF) ↗', href: '/Shubham Resume.pdf', isResume: true },
   ];
